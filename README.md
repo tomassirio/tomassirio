@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-My name is Tomas Sirio. I've been working as a Backend Developer for the last 5 years. Mostly on Java but transitioning to Golang.
+My name is Tomas Sirio. I've been working as a Backend Developer for the last 6 years. Mostly on Java but transitioning to Kotlin and Golang.
 
 ## Technologies and tools:
 
