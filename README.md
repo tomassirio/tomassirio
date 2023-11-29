@@ -25,7 +25,7 @@ My name is Tomas Sirio. I've been working as a Backend Developer for the last 5 
       <img src="https://cdn2.downdetector.com/static/uploads/logo/image21.png" width="100"; height="100"/>
   </a>
   <a href="https://www.linkedin.com/in/tomassirio/">
-      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.flaticon.com%2Ficons%2Fpng%2F512%2F174%2F174857.png&f=1&nofb=1" width="100"; height="100"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" width="100"; height="100"/>
   </a>
   <a href="https://dev.to/tomassirio">
       <img src="https://avatars3.githubusercontent.com/u/13521919?s=280&v=4" width="100"; height="100"/>
