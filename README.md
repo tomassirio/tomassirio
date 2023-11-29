@@ -5,13 +5,16 @@ My name is Tomas Sirio. I've been working as a Backend Developer for the last 5 
 ## Technologies and tools:
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
+![](https://img.shields.io/badge/OS-MacOs-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
+![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Framework-SpringBoot-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=violet)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=lightblue)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=lightblue)
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=tomassirio)](https://github.com/anuraghazra/github-readme-stats)
 
