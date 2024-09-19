@@ -21,9 +21,6 @@ My name is Tomas Sirio. I've been working as a Backend Developer for the last 6 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomassirio&hide=python,vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :bust_in_silhouette: Who Am I?
-
-<img src="https://media.discordapp.net/attachments/763140054825697301/763681938652528690/logo-design-branding-logo-tool-open-electronic-1-5f7ed02bc8247.png?width=468&height=468" width="410" height="410" /></p>
-
   <a href="mailto:tomassirio@gmail.com?Subject=Tomas%20You%20Are%20Amazing!">
       <img src="https://cdn2.downdetector.com/static/uploads/logo/image21.png" width="100"; height="100"/>
   </a>
