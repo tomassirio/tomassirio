@@ -1,35 +1,62 @@
-### Hello World! 👋
+<!-- README.md for tomassirio -->
 
-My name is Tomas Sirio. I've been working as a Backend Developer for the last 8 years. Primarily working with Java, but transitioning to Kotlin and Golang.
+<h1 align="center">Hi there, I'm Tomas Sirio! 👋</h1>
 
-## Technologies and tools:
+<p align="center">
+  🧑‍💻 <b>Backend Developer</b> <br/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dark--Mode-Enabled-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
-![](https://img.shields.io/badge/OS-MacOs-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
-![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
-![](https://img.shields.io/badge/Framework-SpringBoot-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=violet)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=lightblue)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=lightblue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tomassirio&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <a href="mailto:tomassirio@gmail.com"><img src="https://img.shields.io/badge/Email-tomassirio@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tomassirio/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/></a>
+  <img src="https://img.shields.io/badge/Location-Netherlands-orange?style=flat-square"/>
+</p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=tomassirio)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomassirio&hide=python,vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 🦾 About Me
 
-## :bust_in_silhouette: Who Am I?
-  <a href="mailto:tomassirio@gmail.com?Subject=Tomas%20You%20Are%20Amazing!">
-      <img src="https://cdn2.downdetector.com/static/uploads/logo/image21.png" width="100"; height="100"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tomassirio/">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" width="100"; height="100"/>
-  </a>
-  <a href="https://dev.to/tomassirio">
-      <img src="https://avatars3.githubusercontent.com/u/13521919?s=280&v=4" width="100"; height="100"/>
-  </a>
-  <a href="https://www.buymeacoffee.com/tomassirio1">
-      <img src="https://i.pinimg.com/originals/60/fd/e8/60fde811b6be57094e0abc69d9c2622a.jpg" width="100"; height="100"/>
-  </a>
+- 🛠️ Backend Developer for 8+ years.
+- ☕ Java veteran, now falling for Kotlin and flirting with Golang.
+- 🇦🇷 Argentinian living in The Netherlands 🇳🇱.
+- 🤖 My code compiles on the first try (… seldom, but optimism counts).
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [turing-pi-server](https://github.com/tomassirio/turing-pi-server) | Kubernetes/IoT cluster management—because who doesn’t want their own mini data center? |
+| [Chip8-Kt](https://github.com/tomassirio/Chip8-Kt) | A CHIP-8 emulator written in Kotlin. Retro gaming, modern code! |
+| [easyinstaller](https://github.com/tomassirio/easyinstaller) | Install stuff the easy way. Like a magician, but for dependencies. |
+| [ListBot](https://github.com/tomassirio/ListBot) | Telegram bot to keep your lists organized (so your life doesn’t look like my desk). |
+| [BitcoinTelegramBot](https://github.com/tomassirio/BitcoinTelegramBot) | Telegram bot for Bitcoin updates—because who needs sleep when you’re tracking crypto? |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tomassirio&show_icons=true&theme=github_dark&hide_title=true" alt="Tomas's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomassirio&layout=compact&theme=github_dark" alt="Top Languages"/>
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+- Email: [tomassirio@gmail.com](mailto:tomassirio@gmail.com)
+- LinkedIn: [tomassirio](https://www.linkedin.com/in/tomassirio/)
+
+---
+
+<p align="center">
+  <i>“Code like nobody's watching. Debug like the whole world is judging.”</i> <br/>
+  <sub>(Spoiler: they are. But that's what makes it fun!)</sub>
+</p>
